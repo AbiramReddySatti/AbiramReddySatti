@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Myself Abiram Reddy Satti
+## Hi there 👋 Myself Abiram Reddy Satti
 
 Studying a Stony Brook University Computer Science Major
 
